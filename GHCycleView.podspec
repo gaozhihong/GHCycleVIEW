@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                   GHCycleView
+                    GHCycleView.
+                    DESC
   s.homepage     = "https://github.com/gaozhihong/GHCycleView.git"
   s.license      = ""
   s.author             = { "gaozhihong" => "18710296168@163.com" }
